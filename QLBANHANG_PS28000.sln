@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLBANHANG_PS28000", "QLBANHANG_PS28000\QLBANHANG_PS28000.csproj", "{19823666-93B4-4318-8EBC-059C51DE6937}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{0AB84590-D9BD-4C1B-929F-271E8B278131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19823666-93B4-4318-8EBC-059C51DE6937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19823666-93B4-4318-8EBC-059C51DE6937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19823666-93B4-4318-8EBC-059C51DE6937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19823666-93B4-4318-8EBC-059C51DE6937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB84590-D9BD-4C1B-929F-271E8B278131}.Debug|Any CPU.ActiveCfg = Debug
+		{0AB84590-D9BD-4C1B-929F-271E8B278131}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98B3655-1055-42E4-841C-3707C60D1574}
+	EndGlobalSection
+EndGlobal
